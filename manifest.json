@@ -1,0 +1,17 @@
+{
+  "name": "SMS Bomber NP — Educational Lab",
+  "short_name": "SMS Lab",
+  "description": "A browser-only educational SMS security simulation lab.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f8",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "icons": [{
+    "src": "icon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
